@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .brick { fill: #37474F; rx: 40; ry: 40; }
+      .vent { fill: #FF7043; }
+    </style>
+  </defs>
+  <!-- brick base -->
+  <rect class="brick" x="192" y="256" width="640" height="512" rx="40" ry="40"/>
+  <!-- vent slats -->
+  <rect class="vent" x="256" y="352" width="512" height="32" rx="16"/>
+  <rect class="vent" x="256" y="448" width="512" height="32" rx="16"/>
+  <rect class="vent" x="256" y="544" width="512" height="32" rx="16"/>
+  <rect class="vent" x="256" y="640" width="512" height="32" rx="16"/>
+</svg>

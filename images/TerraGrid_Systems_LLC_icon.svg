@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .block { fill: #5D4037; }
+      .channel { fill: #A1887F; }
+    </style>
+  </defs>
+  <!-- grid blocks -->
+  <rect class="block" x="256" y="256" width="200" height="200"/>
+  <rect class="block" x="568" y="256" width="200" height="200"/>
+  <rect class="block" x="256" y="568" width="200" height="200"/>
+  <rect class="block" x="568" y="568" width="200" height="200"/>
+  <!-- water channel across -->
+  <rect class="channel" x="240" y="460" width="544" height="48"/>
+</svg>

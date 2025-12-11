@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .tile { fill: #0F3D2E; rx: 40; ry: 40; }
+      .dot { fill: #0F3D2E; }
+    </style>
+  </defs>
+  <!-- 2x2 interlocking tiles -->
+  <rect class="tile" x="176" y="176" width="288" height="288" />
+  <rect class="tile" x="560" y="176" width="288" height="288" />
+  <rect class="tile" x="176" y="560" width="288" height="288" />
+  <rect class="tile" x="560" y="560" width="288" height="288" />
+  <!-- filtration pore -->
+  <circle class="dot" cx="784" cy="784" r="52"/>
+  <!-- small notch to suggest interlock -->
+  <rect fill="white" x="464" y="304" width="96" height="96" rx="20" ry="20"/>
+  <rect fill="white" x="464" y="624" width="96" height="96" rx="20" ry="20"/>
+  <rect fill="white" x="304" y="464" width="96" height="96" rx="20" ry="20"/>
+  <rect fill="white" x="624" y="464" width="96" height="96" rx="20" ry="20"/>
+</svg>

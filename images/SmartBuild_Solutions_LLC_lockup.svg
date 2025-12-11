@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+  <defs>
+    <style>
+      .gear { fill: #33691E; }
+      .leaf { fill: #AED581; }
+      .word { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+               font-weight: 800; font-size: 110px; fill: #33691E; }
+      .sub { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+              font-weight: 500; font-size: 48px; fill: #33691E; letter-spacing: 6px; }
+    </style>
+  </defs>
+  <!-- icon on left -->
+  <g transform="translate(60,100) scale(0.55)">
+    <circle class="gear" cx="512" cy="512" r="200"/>
+    <rect class="gear" x="492" y="252" width="40" height="80"/>
+    <rect class="gear" x="492" y="692" width="40" height="80"/>
+    <rect class="gear" x="252" y="492" width="80" height="40"/>
+    <rect class="gear" x="692" y="492" width="80" height="40"/>
+    <path class="leaf" d="M512 360c-80 0-160 100-160 200s80 160 160 160 160-60 160-160-80-200-160-200z"/>
+  </g>
+  <!-- wordmark right -->
+  <text x="780" y="360" class="word">SmartBuild</text>
+  <text x="780" y="440" class="sub">SOLUTIONS LLC</text>
+</svg>

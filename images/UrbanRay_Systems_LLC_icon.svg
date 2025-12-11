@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .tile { fill: #212121; }
+      .signal { fill: none; stroke: #FFC107; stroke-width: 40; }
+    </style>
+  </defs>
+  <!-- sensor tile -->
+  <rect class="tile" x="312" y="312" width="400" height="400" rx="40" ry="40"/>
+  <!-- wireless arcs -->
+  <circle class="signal" cx="512" cy="512" r="160" stroke-dasharray="400 800"/>
+  <circle class="signal" cx="512" cy="512" r="240" stroke-dasharray="600 1200"/>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+  <defs>
+    <style>
+      .brick { fill: #37474F; rx: 30; ry: 30; }
+      .vent { fill: #FF7043; }
+      .word { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+               font-weight: 800; font-size: 120px; fill: #37474F; }
+      .sub { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+              font-weight: 500; font-size: 48px; fill: #37474F; letter-spacing: 6px; }
+    </style>
+  </defs>
+  <!-- icon on left -->
+  <g transform="translate(40,120) scale(0.6)">
+    <rect class="brick" x="192" y="256" width="640" height="512" rx="40" ry="40"/>
+    <rect class="vent" x="256" y="352" width="512" height="32" rx="16"/>
+    <rect class="vent" x="256" y="448" width="512" height="32" rx="16"/>
+    <rect class="vent" x="256" y="544" width="512" height="32" rx="16"/>
+    <rect class="vent" x="256" y="640" width="512" height="32" rx="16"/>
+  </g>
+  <!-- wordmark right -->
+  <text x="720" y="380" class="word">ClimateVent</text>
+  <text x="720" y="460" class="sub">SYSTEMS LLC</text>
+</svg>

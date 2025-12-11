@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .body { fill: none; stroke: #00695C; stroke-width: 40; rx: 40; ry: 40; }
+      .arrow { fill: #80CBC4; }
+    </style>
+  </defs>
+  <!-- dishwasher body -->
+  <rect class="body" x="224" y="192" width="576" height="640" rx="40" ry="40"/>
+  <!-- circular recycle arrows -->
+  <path class="arrow" d="M512 320a160 160 0 1 1-113 47l50 50-15-118-118 15 50 50a224 224 0 1 0 159-66z"/>
+</svg>

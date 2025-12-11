@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+  <defs>
+    <style>
+      .shingle { fill: #283593; }
+      .drop { fill: #64B5F6; }
+      .word { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+               font-weight: 800; font-size: 110px; fill: #283593; }
+      .sub { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+              font-weight: 500; font-size: 48px; fill: #283593; letter-spacing: 6px; }
+    </style>
+  </defs>
+  <!-- icon on left -->
+  <g transform="translate(40,80) scale(0.55)">
+    <rect class="shingle" x="192" y="256" width="640" height="120"/>
+    <rect class="shingle" x="192" y="416" width="640" height="120"/>
+    <rect class="shingle" x="192" y="576" width="640" height="120"/>
+    <path class="drop" d="M512 720c-80 120-120 160-120 220 0 66 54 120 120 120s120-54 120-120c0-60-40-100-120-220z"/>
+  </g>
+  <!-- wordmark right -->
+  <text x="780" y="360" class="word">HydroShingle</text>
+  <text x="780" y="440" class="sub">SYSTEMS LLC</text>
+</svg>

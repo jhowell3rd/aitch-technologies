@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .gear { fill: #33691E; }
+      .leaf { fill: #AED581; }
+    </style>
+  </defs>
+  <!-- gear (simplified circle with notches) -->
+  <circle class="gear" cx="512" cy="512" r="200"/>
+  <rect class="gear" x="492" y="252" width="40" height="80"/>
+  <rect class="gear" x="492" y="692" width="40" height="80"/>
+  <rect class="gear" x="252" y="492" width="80" height="40"/>
+  <rect class="gear" x="692" y="492" width="80" height="40"/>
+  <!-- leaf overlay -->
+  <path class="leaf" d="M512 360c-80 0-160 100-160 200s80 160 160 160 160-60 160-160-80-200-160-200z"/>
+</svg>

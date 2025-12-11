@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="800" viewBox="0 0 1800 800">
+  <defs>
+    <style>
+      .post { fill: #2E7D32; }
+      .light { fill: #FFEB3B; }
+      .word { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+               font-weight: 800; font-size: 100px; fill: #2E7D32; }
+      .sub { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+              font-weight: 500; font-size: 44px; fill: #2E7D32; letter-spacing: 6px; }
+    </style>
+  </defs>
+  <!-- icon on left -->
+  <g transform="translate(60,100) scale(0.7)">
+    <rect class="post" x="472" y="256" width="80" height="512" rx="20"/>
+    <rect class="post" x="432" y="216" width="160" height="40"/>
+    <circle class="light" cx="512" cy="216" r="64"/>
+  </g>
+  <!-- wordmark right -->
+  <text x="850" y="360" class="word">Verdant Appliance</text>
+  <text x="850" y="440" class="sub">CO. LLC</text>
+</svg>

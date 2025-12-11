@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .post { fill: #2E7D32; }
+      .light { fill: #FFEB3B; }
+    </style>
+  </defs>
+  <!-- marker post -->
+  <rect class="post" x="472" y="256" width="80" height="512" rx="20"/>
+  <!-- solar top -->
+  <rect class="post" x="432" y="216" width="160" height="40"/>
+  <!-- light glow circle -->
+  <circle class="light" cx="512" cy="216" r="64"/>
+</svg>

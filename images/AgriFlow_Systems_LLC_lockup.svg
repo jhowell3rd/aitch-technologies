@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+  <defs>
+    <style>
+      .drop { fill: #1B5E20; }
+      .flow { fill: none; stroke: #4CAF50; stroke-width: 30; stroke-linecap: round; }
+      .word { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+               font-weight: 800; font-size: 120px; fill: #1B5E20; }
+      .sub { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+              font-weight: 500; font-size: 48px; fill: #1B5E20; letter-spacing: 6px; }
+    </style>
+  </defs>
+  <!-- icon on left -->
+  <g transform="translate(60,60) scale(0.6)">
+    <path class="drop" d="M512 128C420 300 320 420 320 576c0 106 86 192 192 192s192-86 192-192c0-156-100-276-192-448z"/>
+    <path class="flow" d="M256 736c80 40 160 40 240 0"/>
+    <path class="flow" d="M320 832c100 50 200 50 300 0"/>
+    <path class="flow" d="M400 912c80 30 160 30 240 0"/>
+  </g>
+  <!-- wordmark right -->
+  <text x="700" y="380" class="word">AgriFlow</text>
+  <text x="700" y="460" class="sub">SYSTEMS LLC</text>
+</svg>

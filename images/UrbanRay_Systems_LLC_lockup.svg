@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+  <defs>
+    <style>
+      .tile { fill: #212121; }
+      .signal { fill: none; stroke: #FFC107; stroke-width: 30; }
+      .word { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+               font-weight: 800; font-size: 110px; fill: #212121; }
+      .sub { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+              font-weight: 500; font-size: 48px; fill: #212121; letter-spacing: 6px; }
+    </style>
+  </defs>
+  <!-- icon on left -->
+  <g transform="translate(40,80) scale(0.6)">
+    <rect class="tile" x="312" y="312" width="400" height="400" rx="40" ry="40"/>
+    <circle class="signal" cx="512" cy="512" r="160" stroke-dasharray="400 800"/>
+    <circle class="signal" cx="512" cy="512" r="240" stroke-dasharray="600 1200"/>
+  </g>
+  <!-- wordmark right -->
+  <text x="800" y="360" class="word">UrbanRay</text>
+  <text x="800" y="440" class="sub">SYSTEMS LLC</text>
+</svg>

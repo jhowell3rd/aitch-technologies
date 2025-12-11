@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .drop { fill: #1B5E20; }
+      .flow { fill: none; stroke: #4CAF50; stroke-width: 40; stroke-linecap: round; }
+    </style>
+  </defs>
+  <!-- water droplet -->
+  <path class="drop" d="M512 128C420 300 320 420 320 576c0 106 86 192 192 192s192-86 192-192c0-156-100-276-192-448z"/>
+  <!-- flowing lines -->
+  <path class="flow" d="M256 736c80 40 160 40 240 0"/>
+  <path class="flow" d="M320 832c100 50 200 50 300 0"/>
+  <path class="flow" d="M400 912c80 30 160 30 240 0"/>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+  <defs>
+    <style>
+      .block { fill: #5D4037; }
+      .channel { fill: #A1887F; }
+      .word { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+               font-weight: 800; font-size: 110px; fill: #5D4037; }
+      .sub { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+              font-weight: 500; font-size: 48px; fill: #5D4037; letter-spacing: 6px; }
+    </style>
+  </defs>
+  <!-- icon on left -->
+  <g transform="translate(80,100) scale(0.7)">
+    <rect class="block" x="256" y="256" width="200" height="200"/>
+    <rect class="block" x="568" y="256" width="200" height="200"/>
+    <rect class="block" x="256" y="568" width="200" height="200"/>
+    <rect class="block" x="568" y="568" width="200" height="200"/>
+    <rect class="channel" x="240" y="460" width="544" height="48"/>
+  </g>
+  <!-- wordmark right -->
+  <text x="820" y="360" class="word">TerraGrid</text>
+  <text x="820" y="440" class="sub">SYSTEMS LLC</text>
+</svg>
