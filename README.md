@@ -72,8 +72,8 @@ npx serve
 ## Contact
 
 - Email: licensing@aitchtechnologies.com
-- Location: Tampa, Florida
+- Address: 251 Little Falls Drive, Wilmington, DE 19808
 
 ## License
 
-Copyright 2024 AITCH Technologies LLC. All rights reserved.
+Copyright 2025 AITCH Technologies LLC. All rights reserved.
