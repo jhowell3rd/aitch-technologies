@@ -8,22 +8,29 @@ AITCH Technologies LLC specializes in developing and licensing innovative patent
 
 ## Patent Portfolio
 
-The company manages nine patent-holding entities:
+The company manages ten patent-holding entities:
 
 ### Construction
-- **TerraGrid Systems LLC** - Interlocking foundation tiles
-- **BioTile Systems LLC** - Bio-composite building tiles
-- **SmartBuild Solutions LLC** - Intelligent building management
-- **HydroShingle Systems LLC** - Rainwater collection roofing
+| Entity | Patent Title | USPTO App # | Status |
+|--------|-------------|-------------|--------|
+| **TerraGrid Systems LLC** | Modular Interlocking Infrastructure Block | 19/306,897 | Pre-exam |
+| **BioTile Systems LLC** | Biofilter Tile with Embedded Channels | 19/305,544 | Pre-exam |
+| **SmartBuild Solutions LLC** | Modular Wall Block System | 19/312,003 | Docketed |
+| **HydroShingle Systems LLC** | Rainwater-Capturing Roofing Shingle | 19/311,898 | Docketed |
 
 ### Agriculture
-- **AgriFlow Systems LLC** - Precision irrigation systems
-- **EcoInfuse Systems LLC** - Organic nutrient delivery
+| Entity | Patent Title | USPTO App # | Status |
+|--------|-------------|-------------|--------|
+| **AgriFlow Systems LLC** | Passive Irrigation Membrane System | 19/305,413 | Docketed |
+| **EcoInfuse Systems LLC** | TBD | Pending | Pending |
+| **SkyRoot Systems LLC** | Vertical Root-Zone Air Purifier | Pending | Pending |
 
 ### Energy
-- **ClimateVent Systems LLC** - Passive ventilation systems
-- **Verdant Appliance Co LLC** - Ultra-efficient appliances
-- **UrbanRay Systems LLC** - Building-integrated photovoltaics
+| Entity | Patent Title | USPTO App # | Status |
+|--------|-------------|-------------|--------|
+| **ClimateVent Systems LLC** | Climate-Adaptive Ventilation System | 19/306,944 | Pre-exam |
+| **Verdant Appliance Co LLC** | Greywater Recycling Dishwasher | 19/312,069 | Pre-exam |
+| **UrbanRay Systems LLC** | Solar Street Marker System | 19/311,959 | Docketed |
 
 ## Technology Stack
 
@@ -50,7 +57,7 @@ npx serve
 ```
 AITCH Holdings LLC
     └── AITCH Technologies LLC (Patent Licensing)
-            └── 9 Patent Entities
+            └── 10 Patent Entities
 ```
 
 ## Contact
